@@ -1,0 +1,90 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+
+
+
+#locations {
+    width: 1000px;
+    
+}
+
+
+
+.color {
+color: #2E64FE;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+.margin {
+
+
+.margin 
+
+
+}
+
+.margen {
+    padding-top: 100px;
+}
+
+.language {
+   padding-top:90px;
+}
+
+
+
+.opacoimage-bg {
+     position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.5);
+  opacity: 0.9;
+  z-index: 20000;
+}
+
+
+
+.diseño {
+    
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+.opacida {
+     position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #292929;
+  opacity: ;
+  z-index: 2;
+}
+
+.rojo:hover {
+color: red;
+    
+}
+
+.btn {
+    background-color: #000000;
+}
